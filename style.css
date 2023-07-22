@@ -10,6 +10,10 @@
     width: 100%;
     height: 100vh;
     background: #FBFBFC;
+    background-image: linear-gradient(rgba(255,0,0,0), rgba(255,0,0,1)), url("Images/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .logo {
@@ -106,5 +110,4 @@ span {
 background-image: url("Images/background.jpg")
 
 body {
-    background-image: url("Images/background.jpg")
 }
